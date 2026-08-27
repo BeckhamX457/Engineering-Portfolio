@@ -1,6 +1,6 @@
 # Precious Plastics Recycling Center Research Log
 
-**Student:**  
+**Student:B**  
 **Course:** Engineering I or Engineering II  
 
 ## Week 1 — Defining the Problem
