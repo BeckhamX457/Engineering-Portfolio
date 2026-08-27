@@ -1,7 +1,7 @@
 # Precious Plastics Recycling Center Research Log
 
-**Student:B**  
-**Course:** Engineering I or Engineering II  
+**Student:Beckham Bell**  
+**Course:** Engineering I 
 
 ## Week 1 — Defining the Problem
 
@@ -9,9 +9,9 @@
 
 ### Questions I Investigated
 
-- 
-- 
-- 
+- Recycling is a major source of green house gases.
+- Many recyclables become contaminated when placed in preventing large batches being recycled. 
+- Trash and recycling to grow and accelerate to unattainable numbers.
 
 ### Research Findings
 
