@@ -25,7 +25,7 @@
 
   # October 20th Update
   October 20th team switch
-  ## Collection / Sorting / Storage Team
+## Collection / Sorting / Storage Team
   - Ezra
   - Taisiia
   - Fernando
