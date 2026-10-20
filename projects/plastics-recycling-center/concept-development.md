@@ -25,7 +25,7 @@
 
   # October 20th Update
   October 20th team switch
-  Collection / Sorting / Storage Team
+  ## Collection / Sorting / Storage Team
   - Ezra
   - Taisiia
   - Fernando
@@ -33,7 +33,7 @@
   - Hunter
   - Tristan
  
-  Machine Space Team
+ ## Machine Space Team
   - Xlu
   - Xaviar
   - Logan
@@ -41,7 +41,7 @@
   - Aydyn
   - Ash
  
-  Shredder Team (My team)
+ ## Shredder Team (My team)
   - Beckham
   - Davin
   - Ethan
