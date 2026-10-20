@@ -24,7 +24,8 @@
   ## Ending 10/8/2026 by creating a to do list and sketching out the workshop
 
   # October 20th Update
-  We have created a list of safety rules and ideas to follow to make sure all the procedures go smooth. Also, we have created a layout of the workshop and where the project will go. Finally, the safety list includes Overall safety, Material, Handling, and Sorting, protection for the body such as what you will wear, and extras to follow. 
+  We have created a list of safety rules and ideas to follow to make sure all the procedures go smooth. Also, we have created a layout of the workshop and where the project will go. Finally, the safety list includes Overall safety, Material, Handling, and Sorting, protection for the body such as what you will wear, and extras to follow.
+  
   October 20th team switch
 ## Collection / Sorting / Storage Team
   - Ezra
