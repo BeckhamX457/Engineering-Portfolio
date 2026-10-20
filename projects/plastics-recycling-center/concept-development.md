@@ -22,3 +22,29 @@
 - That will fill about 4 recycling bins
 - Divided dolly for carrying and transporting multiple different bins at once
   ## Ending 10/8/2026 by creating a to do list and sketching out the workshop
+
+  # October 20th Update
+  October 20th team switch
+  Collection / Sorting / Storage Team
+  - Ezra
+  - Taisiia
+  - Fernando
+  - Colin
+  - Hunter
+  - Tristan
+ 
+  Machine Space Team
+  - Xlu
+  - Xaviar
+  - Logan
+  - Jack
+  - Aydyn
+  - Ash
+ 
+  Shredder Team (My team)
+  - Beckham
+  - Davin
+  - Ethan
+  - Isaac
+  - Noah
+  - Jiovani
