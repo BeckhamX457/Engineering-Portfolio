@@ -51,7 +51,7 @@
   - Noah
   - Jiovani
 
-  # October 20th Update
+  # October 22nd Update
 ## Since the last update we have
   - We have checked out old shredder groups notebook
   - Wrote down their main original plans
