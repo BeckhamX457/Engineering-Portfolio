@@ -50,3 +50,12 @@
   - Isaac
   - Noah
   - Jiovani
+
+  # October 20th Update
+## Since the last update we have
+  - We have checked out old shredder groups notebook
+  - Wrote down their main original plans
+  - Wrote down sketches
+  - Fixed our notebooks
+  - Filled out table of contents
+  - Set up our notebook for next steps on new shredder team 
