@@ -58,4 +58,12 @@
   - Wrote down sketches
   - Fixed our notebooks
   - Filled out table of contents
-  - Set up our notebook for next steps on new shredder team 
+  - Set up our notebook for next steps on new shredder team
+
+ # October 30th Update
+## Since the last update we have
+- Written down precious files parts for the shredder
+- Sketched out 3mm and 5mm parts
+- Put down the material, size, quantity and mainly PRICES
+- We used a website called sendcutsend to help us with each part
+- Next class I am planning on finishing all parts needed for the shredder with the information for them each
