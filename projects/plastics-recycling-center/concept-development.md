@@ -67,3 +67,19 @@
 - Put down the material, size, quantity and mainly PRICES
 - We used a website called sendcutsend to help us with each part
 - Next class I am planning on finishing all parts needed for the shredder with the information for them each
+
+ # November 5th Update
+## Since the last update we have
+- Created a bill of materials for the mm parts
+- then sketched out each part for 3mm, 5mm, and 6mm
+- With that we have put the material is will use
+- Also size of each part
+- Quantity of each part
+- And price of each part then the total of all of them together
+- We have looked at complete shredder ideas we could buy or find somewhere else
+- With that we found an ebay plastic shredder and granulator, another granulator, desktop granulator, manuel shredder, a mini shredder, desktop shredder, and a mini extruder
+- Finally today I submitted by notebook new pages and updated github
+## Websites used
+- https://plus.plasticpreneur.com/
+- https://www.sustainabledesign.studio/store/
+  
