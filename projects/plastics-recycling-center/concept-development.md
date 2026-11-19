@@ -82,4 +82,17 @@
 ## Websites used
 - https://plus.plasticpreneur.com/
 - https://www.sustainabledesign.studio/store/
-  
+
+ # November 19th Update
+## Since the last update we have
+- Found out new requirements for shredder
+- Requirements are it needs to be elevated, movable, on stilts, and needs to be able to go in a cart
+- One more thing I was thinking about was it needs to be changeable and can be tooken apart
+- First I made a base square shredder model in inventor that is about 7.5 inches by 5.5 inches with a widened base for support
+- Then we built a simple rod to go through the model that would connect to the motor and make the actual shredder gears turn
+- Finally we looked at multiple strong leg ideas and came up with one that resembled an X shape
+- We made a model in Inventor with holes for screws the connect the base model to go on top of the legs
+- Once we assembled everything in Inventor it connected perfectly and the holes connected/lined up
+- This gave up the first leg idea of many to actually make and lastly today we printed out each photo and labeled the part/design specifically
+## Inventor Link
+- https://autode.sk/4kr6k3r
